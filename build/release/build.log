@@ -1,0 +1,30 @@
+Scanning dependencies of target adenfac-cheetah
+Scanning dependencies of target denfac
+Scanning dependencies of target adenfac-acrobot
+Scanning dependencies of target adenfac-cartpole
+Scanning dependencies of target adenfac-humanoid
+[  5%] Building CXX object CMakeFiles/denfac.dir/src/test/denfac.cpp.o
+[ 15%] Building CXX object CMakeFiles/adenfac-cheetah.dir/src/test/adenfac-cheetah.cpp.o
+[ 15%] Building CXX object CMakeFiles/adenfac-acrobot.dir/src/AugmentedDENFAC.cpp.o
+[ 25%] Building CXX object CMakeFiles/denfac.dir/src/SimpleDENFAC.cpp.o
+[ 25%] Building CXX object CMakeFiles/adenfac-acrobot.dir/src/test/adenfac-acrobot.cpp.o
+[ 30%] Building CXX object CMakeFiles/denfac.dir/src/AugmentedDENFAC.cpp.o
+[ 35%] Building CXX object CMakeFiles/adenfac-cartpole.dir/src/test/adenfac-cartpole.cpp.o
+[ 40%] Building CXX object CMakeFiles/adenfac-humanoid.dir/src/test/adenfac-humanoid.cpp.o
+[ 50%] Building CXX object CMakeFiles/adenfac-acrobot.dir/src/SimpleDENFAC.cpp.o
+[ 50%] Building CXX object CMakeFiles/adenfac-cheetah.dir/src/AugmentedDENFAC.cpp.o
+[ 55%] Building CXX object CMakeFiles/adenfac-cheetah.dir/src/SimpleDENFAC.cpp.o
+[ 60%] Building CXX object CMakeFiles/adenfac-cartpole.dir/src/AugmentedDENFAC.cpp.o
+[ 65%] Building CXX object CMakeFiles/adenfac-humanoid.dir/src/AugmentedDENFAC.cpp.o
+[ 70%] Building CXX object CMakeFiles/adenfac-cartpole.dir/src/SimpleDENFAC.cpp.o
+[ 75%] Building CXX object CMakeFiles/adenfac-humanoid.dir/src/SimpleDENFAC.cpp.o
+[ 80%] Linking CXX executable denfac
+[ 80%] Built target denfac
+[ 85%] Linking CXX executable adenfac-acrobot
+[ 90%] Linking CXX executable adenfac-cheetah
+[ 90%] Built target adenfac-acrobot
+[ 95%] Linking CXX executable adenfac-humanoid
+[100%] Linking CXX executable adenfac-cartpole
+[100%] Built target adenfac-cheetah
+[100%] Built target adenfac-humanoid
+[100%] Built target adenfac-cartpole

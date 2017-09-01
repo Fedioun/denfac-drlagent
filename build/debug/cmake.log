@@ -1,0 +1,70 @@
+-- The CXX compiler identification is GNU 5.4.0
+-- The C compiler identification is GNU 5.4.0
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+Build type set to Debug
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   serialization
+--   filesystem
+--   system
+--   program_options
+--   thread
+--   chrono
+--   date_time
+--   atomic
+-- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so  
+-- Found GLOG: /usr/include  
+CUDA_TOOLKIT_ROOT_DIR not found or specified
+-- Could NOT find CUDA (missing:  CUDA_TOOLKIT_ROOT_DIR CUDA_NVCC_EXECUTABLE CUDA_INCLUDE_DIRS CUDA_CUDART_LIBRARY) 
+-- Found Intel TBB
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   serialization
+--   filesystem
+--   system
+--   program_options
+--   thread
+--   chrono
+--   date_time
+--   atomic
+-- Found CommonDRL: /home/nosmoth/Developpement/C++/drl/common/lib/libcommon-drl-d.so  
+-- ODE release include not capted.
+-- ODE release library not capted.
+-- Could NOT find ODE headers.
+-- Could NOT find ODE library.
+-- Found ODE: /home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so  
+-- ODE flags : 
+-- Found ODEEnv: /home/nosmoth/Developpement/C++/drl/environment/ode-env/lib/libode-env-d.so  
+-- Found AdvancedAcrobot: /home/nosmoth/Developpement/C++/drl/environment/advanced-acrobot/lib/libadvanced-acrobot-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/lib/libode-env-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so  
+-- ODE flags : 
+-- Found ODEEnv: /home/nosmoth/Developpement/C++/drl/environment/ode-env/lib/libode-env-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so  
+-- Found AdvancedAcrobot: /home/nosmoth/Developpement/C++/drl/environment/cartpole/lib/libcartpole-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/lib/libode-env-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so  
+-- ODE flags : 
+-- Found ODEEnv: /home/nosmoth/Developpement/C++/drl/environment/ode-env/lib/libode-env-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so  
+-- Found AdvancedAcrobot: /home/nosmoth/Developpement/C++/drl/environment/half_cheetah/lib/libhalf_cheetah-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/lib/libode-env-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so  
+-- ODE flags : 
+-- Found ODEEnv: /home/nosmoth/Developpement/C++/drl/environment/ode-env/lib/libode-env-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so  
+-- Found AdvancedAcrobot: /home/nosmoth/Developpement/C++/drl/environment/humanoid/lib/libhumanoid-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/lib/libode-env-d.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so;/home/nosmoth/Developpement/C++/drl/environment/ode-env/build/debug/ode-src/ode/src/.libs/libode.so  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nosmoth/Developpement/C++/drl/agent/fedioun/build/debug
